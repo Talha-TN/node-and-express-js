@@ -1,0 +1,2 @@
+{"emp_id":245,"name":"Talha nawaz","age":"24 years","gender":"male","location":"lahore","salary":200000}
+{"emp_id":245,"name":"Talha nawaz","age":"24 years","gender":"male","location":"lahore","salary":200000}
